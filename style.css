@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background: #f9f9f9;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px 15px;
+}
+
+#hoverBox {
+  width: 200px;
+  height: 100px;
+  background-color: lightblue;
+  text-align: center;
+  line-height: 100px;
+  margin-top: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.feedback {
+  color: red;
+  font-size: 14px;
+}
+
+.tabs button {
+  padding: 5px 10px;
+}
+
+.tabContent {
+  margin-top: 10px;
+  background-color: #e0e0e0;
+  padding: 10px;
+}
